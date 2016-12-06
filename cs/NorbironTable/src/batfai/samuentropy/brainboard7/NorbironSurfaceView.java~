@@ -249,7 +249,7 @@ public class NorbironSurfaceView extends android.view.SurfaceView implements Run
         nodes = new Nodes(this);
 
 
-	nodeBoxes.clear();
+		nodeBoxes.clear();
         loadData(PreferenceManager.getDefaultSharedPreferences(context));
 
 

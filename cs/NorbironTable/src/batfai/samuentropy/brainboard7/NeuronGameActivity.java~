@@ -40,20 +40,7 @@
 package batfai.samuentropy.brainboard7;
 
 
-import android.view.MotionEvent;
-import android.view.View;
-import android.widget.LinearLayout;
 import android.widget.Button;
-import android.view.View.OnClickListener;
-import android.view.DragEvent;
-import android.view.View.DragShadowBuilder;
-import android.view.View.OnDragListener;
-import android.view.View.OnTouchListener;
-import android.content.ClipData;
-import android.view.animation.Animation.AnimationListener;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
-
 /**
  *
  * @author nbatfai
